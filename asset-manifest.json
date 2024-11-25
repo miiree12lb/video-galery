@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/video-gallery/static/css/main.49d9acc3.css",
-    "main.js": "/video-gallery/static/js/main.64489a91.js",
+    "main.js": "/video-gallery/static/js/main.14c05dcb.js",
     "static/media/wisconsinThumb.png": "/video-gallery/static/media/wisconsinThumb.f62688817fc1e581fba2.png",
     "static/media/logo.png": "/video-gallery/static/media/logo.41cfb9e489f010ce62b5.png",
     "static/media/londonThumb.png": "/video-gallery/static/media/londonThumb.d11fcb826caee0e2f56f.png",
@@ -9,10 +9,10 @@
     "index.html": "/video-gallery/index.html",
     "static/media/linkedin.svg": "/video-gallery/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
     "main.49d9acc3.css.map": "/video-gallery/static/css/main.49d9acc3.css.map",
-    "main.64489a91.js.map": "/video-gallery/static/js/main.64489a91.js.map"
+    "main.14c05dcb.js.map": "/video-gallery/static/js/main.14c05dcb.js.map"
   },
   "entrypoints": [
     "static/css/main.49d9acc3.css",
-    "static/js/main.64489a91.js"
+    "static/js/main.14c05dcb.js"
   ]
 }
