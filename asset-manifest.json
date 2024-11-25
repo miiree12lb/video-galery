@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/video-gallery/static/css/main.5bcf6c5f.css",
-    "main.js": "/video-gallery/static/js/main.3946897f.js",
+    "main.css": "/video-gallery/static/css/main.49d9acc3.css",
+    "main.js": "/video-gallery/static/js/main.64489a91.js",
     "static/media/wisconsinThumb.png": "/video-gallery/static/media/wisconsinThumb.f62688817fc1e581fba2.png",
     "static/media/logo.png": "/video-gallery/static/media/logo.41cfb9e489f010ce62b5.png",
     "static/media/londonThumb.png": "/video-gallery/static/media/londonThumb.d11fcb826caee0e2f56f.png",
     "static/media/instagram.svg": "/video-gallery/static/media/instagram.f1b93ec68f3f311e5c68d6085a9b479c.svg",
     "index.html": "/video-gallery/index.html",
     "static/media/linkedin.svg": "/video-gallery/static/media/linkedin.3f6d644cac1e5dd5bb4675ccea3d9ff3.svg",
-    "main.5bcf6c5f.css.map": "/video-gallery/static/css/main.5bcf6c5f.css.map",
-    "main.3946897f.js.map": "/video-gallery/static/js/main.3946897f.js.map"
+    "main.49d9acc3.css.map": "/video-gallery/static/css/main.49d9acc3.css.map",
+    "main.64489a91.js.map": "/video-gallery/static/js/main.64489a91.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bcf6c5f.css",
-    "static/js/main.3946897f.js"
+    "static/css/main.49d9acc3.css",
+    "static/js/main.64489a91.js"
   ]
 }
